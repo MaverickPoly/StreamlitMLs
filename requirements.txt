@@ -1,3 +1,8 @@
 streamlit
 matplotlib
-Pillow
+pillow
+tensorflow
+numpy
+diffusers
+torch
+transformers
