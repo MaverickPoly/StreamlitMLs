@@ -6,3 +6,5 @@ numpy
 diffusers
 torch
 transformers
+torchvision
+tokenizers
